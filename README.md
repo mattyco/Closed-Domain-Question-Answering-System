@@ -4,3 +4,4 @@ Aim:
 To create a Closed Domain Question Answering System for
 12th grade NCERT physics
 
+Refer the report for more details.
